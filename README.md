@@ -2,9 +2,6 @@
 
 data source: https://www.kaggle.com/datasets/dataenergy/natural-disaster-data
 
-**Author:** Roxanne Li
-
-
 
 ## Mentee Info
 
